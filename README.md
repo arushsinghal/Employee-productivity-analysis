@@ -93,9 +93,9 @@ python main.py
 
 ```
 .
-├── dataset.csv           # Your employee dataset file
+├── dataset.csv           # employee dataset file
 ├── main.py               # Main script containing the code for live capture, data processing, and modeling
-└── README.md             # This file
+└── README.md             # file
 ```
 
 ## Additional Notes
@@ -107,5 +107,5 @@ python main.py
   You can modify the parameters (e.g., model hyperparameters, duration of video capture) as needed to better suit your data or performance needs.
 
 - **Learning Opportunity:**  
-  This project demonstrates the integration of computer vision and ensemble machine learning methods (RandomForest and XGBoost). It’s a great addition to your portfolio and a strong discussion point for interviews.
+  This project demonstrates the integration of computer vision and ensemble machine learning methods (RandomForest and XGBoost).
 
